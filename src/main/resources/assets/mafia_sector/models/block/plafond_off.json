@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "side": "mafia_sector:block/shelter_concrete",
+    "top": "mafia_sector:block/shelter_concrete",
+    "bottom": "mafia_sector:block/plafond_off"
+  }
+}

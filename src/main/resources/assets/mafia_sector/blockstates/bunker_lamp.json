@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "lit=true": { "model": "mafia_sector:block/bunker_lamp" },
+    "lit=false": { "model": "mafia_sector:block/bunker_lamp_off" }
+  }
+}

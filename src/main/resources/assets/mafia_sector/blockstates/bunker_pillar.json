@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "axis=y": { "model": "mafia_sector:block/bunker_pillar" },
+    "axis=z": { "model": "mafia_sector:block/bunker_pillar_horizontal", "x": 90 },
+    "axis=x": { "model": "mafia_sector:block/bunker_pillar_horizontal", "x": 90, "y": 90 }
+  }
+}

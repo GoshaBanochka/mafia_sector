@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "mafia_sector:block/board_panel"
+    }
+  }
+}

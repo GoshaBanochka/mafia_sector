@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "lit=true": { "model": "mafia_sector:block/plafond" },
+    "lit=false": { "model": "mafia_sector:block/plafond_off" }
+  }
+}

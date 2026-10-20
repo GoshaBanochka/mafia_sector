@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "mafia_sector:block/sector_terminal" },
+    "facing=east": { "model": "mafia_sector:block/sector_terminal", "y": 90 },
+    "facing=south": { "model": "mafia_sector:block/sector_terminal", "y": 180 },
+    "facing=west": { "model": "mafia_sector:block/sector_terminal", "y": 270 }
+  }
+}

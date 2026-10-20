@@ -1,0 +1,32 @@
+# Gradle / build
+.gradle/
+build/
+out/
+bin/
+repo/
+
+# Run directories
+run/
+run-data/
+run-gametest/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Generated resources cache
+src/generated/resources/.cache/
+
+# Local-only files
+mods/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Source maps and schematics for the bunker (third-party, not in git)
+maps/
+schematics/

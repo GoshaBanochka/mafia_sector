@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "lit=true": { "model": "mafia_sector:block/emergency_lamp" },
+    "lit=false": { "model": "mafia_sector:block/emergency_lamp_off" }
+  }
+}

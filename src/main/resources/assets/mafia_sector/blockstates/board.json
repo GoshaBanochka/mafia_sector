@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "mafia_sector:block/board_panel"
+    },
+    "facing=east": {
+      "model": "mafia_sector:block/board_panel"
+    },
+    "facing=south": {
+      "model": "mafia_sector:block/board_panel"
+    },
+    "facing=west": {
+      "model": "mafia_sector:block/board_panel"
+    }
+  }
+}
