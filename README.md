@@ -158,4 +158,4 @@ Create и Curios для dev-запусков копируются из папк�
 
 ## Лицензия
 
-All Rights Reserved.
+[MIT](LICENSE).
